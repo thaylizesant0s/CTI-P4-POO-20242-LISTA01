@@ -1,3 +1,5 @@
+### Segue a lista de exercícios resolvidos em Java, com os números das questões e seus respectivos enunciados.
+-----
 | **Nº** | **Questão**                                                                                             |
 |--------|----------------------------------------------------------------------------------------------------------|
 | 01     | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.              |
